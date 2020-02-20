@@ -1,0 +1,78 @@
+.body_main {
+	background-color: rgb(175, 175, 175);
+	margin: 0 auto;
+    text-align: center;
+}
+
+.text {
+	font-family: arial;
+	text-align: center;
+}
+
+h1 {
+	font-size: 18px;
+}
+
+.text-label {
+	margin: 10px;
+    width: 10%;
+}
+
+.button {
+	border-radius: 5%;
+    background-color: rgb(255, 120, 100);
+    border-color: rgb(255, 120, 100);
+}
+
+.menu {
+	border-right: 2px;
+    border-color: red;
+    border-right-style: solid;
+    height: 250px;
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+    padding-right: 0px! important;
+    padding-left: 0px! important;
+    background-color: rgb(255, 120, 100);
+}
+
+.title_menu {
+	font-size: 14px;
+}
+
+.menu_ul {
+	display: table-caption;
+}
+
+.menu_item {
+	float: left;
+    margin: 10px;
+    width: 100%;
+}
+
+.menu_button {
+	border-style: none;
+    background: none;
+    cursor: pointer;
+}
+
+table {
+    border: solid 1px;
+    width: 1000px;
+}
+
+tr {
+	border-bottom: solid 1px;
+}
+
+th {
+	border-right: solid 1px;
+	width: 25%;
+	text-align: center! important;
+}
+
+td {
+	width: 25%;
+	border-right: solid 1px;
+}
